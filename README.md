@@ -55,17 +55,39 @@ Here's a walkthrough of implemented user stories:
 
 **Sign Up:**
 
+<img src="Screenshots/SignUp 01.PNG" alt="SignUp 01" width="250">
+Sign Up - Step 1
+
+<img src="Screenshots/SignUp 02_Error.PNG" alt="SignUp 02_Error" width="250">
+Sign Up - Step 1 - Validation
+
+<img src="Screenshots/SignUp 02.PNG" alt="SignUp 02" width="250">
+Sign Up - Step 1 - Valid Input
+
+<img src="Screenshots/SignUp 03_Error.PNG" alt="SignUp 03_Error" width="250">
+Sign Up - Step 2 - Age Validation
+
+<img src="Screenshots/SignUp 03.PNG" alt="SignUp 03" width="250">
+Sign Up - Step 2 - Genre Validation
+
+<img src="Screenshots/SignUp 04.PNG" alt="SignUp 04" width="250">
+Sign Up - Step 2 - Valid Input
 
 
 **Sign In:**
 
+<img src="Screenshots/SignIn 01.PNG" alt="SignIn 01" width="250">
+Sign In
 
+<img src="Screenshots/SignIn 02_Error.PNG" alt="SignIn 02_Error" width="250">
+Sign In - Validation
+
+<img src="Screenshots/SignIn 02.PNG" alt="SignIn 02" width="250">
+Sign In - Valid Input
 
 **Home:**
 
-
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src="Screenshots/Home.PNG" alt="Home" width="250">
 
 ## Notes
 
